@@ -1,0 +1,27 @@
+
+ body {
+     background-color: #0f0e0e;
+ }
+
+ .hero-section {
+     padding-top: 50px;
+ }
+
+ .portfolio-section {
+     padding-top: 50px;
+     padding-bottom: 50px;
+ }
+
+ .expertise-section {
+     padding-top: 50px;
+     padding-bottom: 50px;
+ }
+
+ .contact-section {
+     padding-top: 50px;
+     padding-bottom: 50px;
+ }
+
+ .section-title {
+     margin-bottom: 30px;
+ }
